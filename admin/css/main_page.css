@@ -1,0 +1,34 @@
+html, body{
+    height: 100%;
+}
+
+#main-content {
+    left: 0;
+    right: 0;
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    background-color: lightgrey;
+}
+
+#top-right {
+    right: 0;
+    position: absolute;
+}
+
+#top-left {
+    left: 0;
+    position: absolute;
+}
+
+.error-message{
+    display: inline-flex;
+    color: red;
+    font-size: 1.2em;
+}
+
+.middle {
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}

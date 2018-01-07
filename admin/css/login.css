@@ -1,0 +1,53 @@
+.bg-lightgrey {
+    background-color: lightgrey;
+}
+
+.form_button {
+    border-style: none;
+    background-color: grey;
+    color: white;
+    border-radius: 4px;
+    border-color: none;
+}
+
+.error_message {
+    color: red;
+    display: inline-flex;
+}
+
+.div_login {
+    left: 0;
+    right: 0;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.form-table {
+    left: 0;
+    right: 0;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.form-form {
+    display: inline-block;
+}
+
+.mid_logo {
+    left: 0;
+    right: 0;
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+}
+
+form {
+    align-content: center;
+}
+
+body{
+}
+
+tr {
+    text-align: center;
+}

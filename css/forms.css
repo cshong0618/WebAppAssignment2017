@@ -1,0 +1,15 @@
+.error_message {
+    display: inline-flex;
+    color: red;
+}
+
+input {
+    width: 50%;
+}
+
+/*
+    Put below tables to override
+*/
+td {
+    text-align: left;
+}

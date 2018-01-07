@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    background-color: white;
+    text-align: center;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    margin: 0;
+    padding: 0;
+}
+
+th {
+    background-color: lightblue;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
